@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 61: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 62: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 63: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 64: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 65: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 66: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 67: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 68: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 69: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 70: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 71: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 72: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 73: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 74: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 75: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 76: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 77: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 78: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 79: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 80: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 81: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 82: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 83: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 84: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 85: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 86: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 87: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 88: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 89: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 90: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 91: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" Line 92: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/alu_test.vhd" Line 80: &lt;<arg fmt="%s" index="1">clock</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/alu_test.vhd" Line 82: &lt;<arg fmt="%s" index="1">clock</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="854" delta="unknown" >"C:/Users/mtech/poonam_vlsi/alu_32bit/alu_test.vhd" Line 38: Unit &lt;<arg fmt="%s" index="1">behavior</arg>&gt; ignored due to previous errors.
+</msg>
+
+</messages>
+

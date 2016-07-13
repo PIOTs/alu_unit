@@ -1,0 +1,65 @@
+Release 14.2 - xst P.28xd (nt)
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/mtech/poonam_vlsi/alu_32bit/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.17 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/mtech/poonam_vlsi/alu_32bit/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.17 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/mtech/poonam_vlsi/alu_32bit/full_add.vhd" in Library work.
+Architecture behavioral of Entity full_add is up to date.
+Compiling vhdl file "C:/Users/mtech/poonam_vlsi/alu_32bit/rippl_4bitaddr.vhd" in Library work.
+Architecture behavioral of Entity rippl_4bitaddr is up to date.
+Compiling vhdl file "C:/Users/mtech/poonam_vlsi/alu_32bit/rt_shift.vhd" in Library work.
+Architecture behavioral of Entity rt_shift is up to date.
+Compiling vhdl file "C:/Users/mtech/poonam_vlsi/alu_32bit/lft_shift.vhd" in Library work.
+Architecture behavioral of Entity lft_shift is up to date.
+Compiling vhdl file "C:/Users/mtech/poonam_vlsi/alu_32bit/mux_2to1_33bit.vhd" in Library work.
+Architecture behavioral of Entity mux_2to1_33bit is up to date.
+Compiling vhdl file "C:/Users/mtech/poonam_vlsi/alu_32bit/and_32bit.vhd" in Library work.
+Architecture behavioral of Entity and_32bit is up to date.
+Compiling vhdl file "C:/Users/mtech/poonam_vlsi/alu_32bit/or_32bit.vhd" in Library work.
+Architecture behavioral of Entity or_32bit is up to date.
+Compiling vhdl file "C:/Users/mtech/poonam_vlsi/alu_32bit/xor_32bitt.vhd" in Library work.
+Architecture behavioral of Entity xor_32bitt is up to date.
+Compiling vhdl file "C:/Users/mtech/poonam_vlsi/alu_32bit/not_32bit.vhd" in Library work.
+Architecture behavioral of Entity not_32bit is up to date.
+Compiling vhdl file "C:/Users/mtech/poonam_vlsi/alu_32bit/mux_4to1_33bit.vhd" in Library work.
+Architecture behavioral of Entity mux_4to1_33bit is up to date.
+Compiling vhdl file "C:/Users/mtech/poonam_vlsi/alu_32bit/mux_4to1.vhd" in Library work.
+Architecture behavioral of Entity mux_4to1 is up to date.
+Compiling vhdl file "C:/Users/mtech/poonam_vlsi/alu_32bit/addr_32bit.vhd" in Library work.
+Architecture behavioral of Entity addr_32bit is up to date.
+Compiling vhdl file "C:/Users/mtech/poonam_vlsi/alu_32bit/arithm_unit.vhd" in Library work.
+Architecture behavioral of Entity arithm_unit is up to date.
+Compiling vhdl file "C:/Users/mtech/poonam_vlsi/alu_32bit/logic_unit.vhd" in Library work.
+Architecture behavioral of Entity logic_unit is up to date.
+Compiling vhdl file "C:/Users/mtech/poonam_vlsi/alu_32bit/shift_unit.vhd" in Library work.
+Architecture behavioral of Entity shift_unit is up to date.
+Compiling vhdl file "C:/Users/mtech/poonam_vlsi/alu_32bit/alu_unit.vhd" in Library work.
+Entity <alu_unit> compiled.
+Entity <alu_unit> (Architecture <Behavioral>) compiled.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.42 secs
+ 
+--> 
+
+Total memory usage is 168184 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

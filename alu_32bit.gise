@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="alu_32bit.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_LSO" xil_pn:name=".lso"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="addr_32bit.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="addr_32bit.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="addr_32bit.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="alu_test_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="alu_unit.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="alu_unit.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="alu_unit.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="alu_unit_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="alu_unit_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="alu_unit_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="and_32bit.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="and_32bit.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="and_32bit.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="arithm_unit.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="arithm_unit.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="arithm_unit.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="full_add.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="full_add.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="full_add.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="lft_shift.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="lft_shift.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="lft_shift.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="logic_unit.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="logic_unit.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="logic_unit.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="mux_2to1_33bit.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="mux_2to1_33bit.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="mux_2to1_33bit.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="mux_4to1.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="mux_4to1.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="mux_4to1.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="mux_4to1_33bit.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="mux_4to1_33bit.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="mux_4to1_33bit.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="not_32bit.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="not_32bit.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="not_32bit.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="or_32bit.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="or_32bit.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="or_32bit.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="rippl_4bitaddr.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="rippl_4bitaddr.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="rippl_4bitaddr.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="rt_shift.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="rt_shift.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="rt_shift.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="shift_unit.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="shift_unit.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="shift_unit.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="xor_32bitt.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="xor_32bitt.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="xor_32bitt.xst"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1443170185" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1443170185">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1443502586" xil_pn:in_ck="2223221551005344858" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1443502586">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="addr_32bit.vhd"/>
+      <outfile xil_pn:name="alu_test.vhd"/>
+      <outfile xil_pn:name="alu_unit.vhd"/>
+      <outfile xil_pn:name="and_32bit.vhd"/>
+      <outfile xil_pn:name="arithm_unit.vhd"/>
+      <outfile xil_pn:name="full_add.vhd"/>
+      <outfile xil_pn:name="lft_shift.vhd"/>
+      <outfile xil_pn:name="logic_unit.vhd"/>
+      <outfile xil_pn:name="mux_2to1_33bit.vhd"/>
+      <outfile xil_pn:name="mux_4to1.vhd"/>
+      <outfile xil_pn:name="mux_4to1_33bit.vhd"/>
+      <outfile xil_pn:name="not_32bit.vhd"/>
+      <outfile xil_pn:name="or_32bit.vhd"/>
+      <outfile xil_pn:name="rippl_4bitaddr.vhd"/>
+      <outfile xil_pn:name="rt_shift.vhd"/>
+      <outfile xil_pn:name="shift_unit.vhd"/>
+      <outfile xil_pn:name="xor_32bitt.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1443502551" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-2152961398533089919" xil_pn:start_ts="1443502551">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1443502551" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-5121344805527979251" xil_pn:start_ts="1443502551">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1443170185" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-323039018588626264" xil_pn:start_ts="1443170185">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1443174592" xil_pn:in_ck="2223221551005344858" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1443174592">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="addr_32bit.vhd"/>
+      <outfile xil_pn:name="alu_test.vhd"/>
+      <outfile xil_pn:name="alu_unit.vhd"/>
+      <outfile xil_pn:name="and_32bit.vhd"/>
+      <outfile xil_pn:name="arithm_unit.vhd"/>
+      <outfile xil_pn:name="full_add.vhd"/>
+      <outfile xil_pn:name="lft_shift.vhd"/>
+      <outfile xil_pn:name="logic_unit.vhd"/>
+      <outfile xil_pn:name="mux_2to1_33bit.vhd"/>
+      <outfile xil_pn:name="mux_4to1.vhd"/>
+      <outfile xil_pn:name="mux_4to1_33bit.vhd"/>
+      <outfile xil_pn:name="not_32bit.vhd"/>
+      <outfile xil_pn:name="or_32bit.vhd"/>
+      <outfile xil_pn:name="rippl_4bitaddr.vhd"/>
+      <outfile xil_pn:name="rt_shift.vhd"/>
+      <outfile xil_pn:name="shift_unit.vhd"/>
+      <outfile xil_pn:name="xor_32bitt.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1443502554" xil_pn:in_ck="2223221551005344858" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-8575740282208804417" xil_pn:start_ts="1443502551">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="InputChanged"/>
+    </transform>
+    <transform xil_pn:end_ts="1443502536" xil_pn:in_ck="-390567244886791152" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-6298793408415822673" xil_pn:start_ts="1443502536">
+      <status xil_pn:value="AbortedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForced"/>
+      <outfile xil_pn:name="alu_unit_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+    </transform>
+  </transforms>
+
+</generated_project>
